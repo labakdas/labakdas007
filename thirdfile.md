@@ -1,4 +1,4 @@
-This is a third file I'm typing to use with Git.
+# This is a third file I'm typing to use with Git.
 I'm interested in learning the automation using Atista.
 
 Arista Digital has valuable resources and I'm liking it and learning it.
